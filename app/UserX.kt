@@ -1,0 +1,1 @@
+class UserX : ArrayList<UserItemX>()
